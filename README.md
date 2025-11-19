@@ -39,4 +39,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ### Vercel Link
 
-https://newm-n317-midterm-campus-directory.vercel.app/faculty 
+https://newm-n317-midterm-campus-directory.vercel.app
